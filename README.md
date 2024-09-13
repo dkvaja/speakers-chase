@@ -1,8 +1,14 @@
+![Speakers Chase Logo](./public/favicon/apple-touch-icon.png)
+
 # Speakers Chase
 
 ## Overview
 
 **Speakers Chase** is a modern web application designed to showcase and manage speaker profiles efficiently. Built using **React**, **Next.js**, and **Material-UI (MUI)**, this project provides a sleek and intuitive user interface for browsing, searching, and managing speakers.
+
+## Live URL
+
+[Speakers Chase](https://speakers-chase.netlify.app/)
 
 ## Features
 
